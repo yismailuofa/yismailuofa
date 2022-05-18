@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Swift
 - 🏛 Studying Software Engineering at the University of Alberta
 - 📫 Find me at [yismailuofa.github.io](https://yismailuofa.github.io/)
 - 📦 Projects:
